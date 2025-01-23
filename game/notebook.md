@@ -24,4 +24,8 @@ Uno de los miembros del staff nos dijo que fueramos a ver al mercado. Además, e
 
 ### Cuarta Pista enocntrada
 Nos indican que debemos ir a ver a los salones de la escuela. Además, en objects.txt se encontraron los guantes de cuero, y en persons.txt al periodista. Ambos se tacharon.
-Location of the crime is still unknown - the room must have been empty when it happened...
+
+### Quinta Pista - Fin de Juego
+En la última pista, hemos encontrado que el salon de clases fue el lugar donde ocurrió la escena del crimen, y el único sospechoso que queda es el jardinero con la caja de madera.
+
+

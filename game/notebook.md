@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist
+- [x] The Journalist
 - [ ] The Gardener
 - [x] The Banker
 
 ## Weapons
 - [x] Glass Bottle
 - [ ] Wooden Box
-- [ ] Leather Gloves
+- [x] Leather Gloves
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -22,4 +22,6 @@ Las tablas del sueo crujen, lo que sugiere que alguien se fue al café. Además,
 ### Tercera Pista encontrada
 Uno de los miembros del staff nos dijo que fueramos a ver al mercado. Además, en objects.txt del café se encontró una botell de vidrio, se tachó, en persons.txt no había nada.
 
+### Cuarta Pista enocntrada
+Nos indican que debemos ir a ver a los salones de la escuela. Además, en objects.txt se encontraron los guantes de cuero, y en persons.txt al periodista. Ambos se tacharon.
 Location of the crime is still unknown - the room must have been empty when it happened...

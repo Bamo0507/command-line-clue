@@ -6,7 +6,7 @@
 - [x] The Banker
 
 ## Weapons
-- [ ] Glass Bottle
+- [x] Glass Bottle
 - [ ] Wooden Box
 - [ ] Leather Gloves
 
@@ -18,5 +18,8 @@ El relojero nos ha indicado que escuchó sonidos en las tiendas anoche, se revis
 
 ### Segunda Pista encontrada
 Las tablas del sueo crujen, lo que sugiere que alguien se fue al café. Además, en persons.txt se encontró al banquero, se tachó, pero en objects.txt, no había nada.
+
+### Tercera Pista encontrada
+Uno de los miembros del staff nos dijo que fueramos a ver al mercado. Además, en objects.txt del café se encontró una botell de vidrio, se tachó, en persons.txt no había nada.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
